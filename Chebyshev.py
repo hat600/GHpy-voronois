@@ -1,5 +1,3 @@
-__author__ = "CandyConstellation"
-
 import rhinoscriptsyntax as rs
 from Rhino.Geometry import Point3d as P3
 from Rhino.Geometry import Polyline as PLine
