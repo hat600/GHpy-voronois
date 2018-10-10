@@ -7,6 +7,7 @@ it works in GHpython, under Grasshopper3d, Rhinoceros 6.
 make a GHpython battery with 2 inputs:
 * P: source points (Point3d, List Access)
 * r: radius (float, Item Access）
+
 and 1 output:
 * PL
 
